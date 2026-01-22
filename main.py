@@ -1,5 +1,5 @@
 @ -0,0 +1,226 @@
-import numpylike1 as mml
+import numpylike as mml
 def find_all_eigenvalues(charac_eq):
     eigenvalues = []
     poly = charac_eq

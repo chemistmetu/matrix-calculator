@@ -1,5 +1,5 @@
 @ -0,0 +1,263 @@
-from sympylike1 import Term, Polynomial
+from sympylike import Term, Polynomial
 
 def const_matrix(row, column):
     print(f" for {row} * {column} size matrix, enter your values: ")
